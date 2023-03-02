@@ -1,0 +1,27 @@
+h1 {
+    color: red;
+    text-align: center;
+    font-size: 100px;
+}
+
+h3 {
+    color: #807504;
+    font-size: 55px;
+}
+
+.odd {
+    background-color: pink;
+}
+
+.even {
+    background-color: purple;
+}
+
+#items {
+    font-size: 25px;
+}
+
+#instructions {
+    font-size: 35px;
+}
+
